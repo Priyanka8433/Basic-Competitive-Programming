@@ -1,0 +1,9 @@
+#print(list(range(0,6))) #range is iterable
+
+#for i in range(1,10,2):
+   # print(i)
+
+# for i in range(1, N + 1):
+ #       print(i, end=" ")
+
+#n=int(input("enter the number: "))
